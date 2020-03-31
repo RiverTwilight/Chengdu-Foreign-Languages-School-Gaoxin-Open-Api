@@ -1,34 +1,14 @@
-[![构建状态](/badges/cflsgx/build.svg)](/p/cflsgx/ci/job)
+Some node based APIs, which crawls and returns some contents of the school official website, including news trends
 
-[TOC]
+The first thing to say is, I'm **just a student of this school**.
 
-# 体验示例项目
+# Docs
+See documents in [Postman](https://documenter.getpostman.com/view/9966784/SzYXYL8V?version=latest)
 
-这个示例代码可以帮你快速了解一个简单的 Node.js 网页应用。并已经配置好自动编译过程。
+# Fornt-end 
+See another [respository](https://github.com/RiverTwilight/Chengdu-Foreign-Languages-School-Gaoxin-Third-Party-Website).
 
-文件解释
------------
+# About
+I'm in the 2019 class 8 now, come to me everytime!
 
-样例包括:
-
-* README.md - 本文件
-* Jenkinsfile - 用以自动构建和测试的脚本
-* Dockerfile - 用以自动构建 Docker 镜像的脚本
-* package.json - npm 的包管理文件
-* app.js - 主 Nodejs 服务器端源代码
-* tests - 主测试代码
-
-快速开始
----------------
-
-如下这些引导，假定你想在自己的电脑上开发本项目。
-
-1. 安装依赖
-
-        $ npm install
-
-2. 启动服务器
-
-        $ npm start
-
-5. 打开 http://127.0.0.1:3000/ .
+Love my school~
