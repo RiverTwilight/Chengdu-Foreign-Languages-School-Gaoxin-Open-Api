@@ -10,7 +10,7 @@
         "nodemon": "^2.0.2"
     },
     "devDependencies": {
-        "mocha": "5.0.0",
+        "mocha": "10.2.0",
         "supertest": "3.0.0",
         "unit.js": "^2.1.0"
     },
